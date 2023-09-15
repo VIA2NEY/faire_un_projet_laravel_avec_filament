@@ -11,7 +11,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 ### Étapes d'Installation
 
-1. **Clonage du Référentiel** : Clonez le référentiel de CIPREL MOUVEMENT dans votre répertoire local :
+1. **Clonage du Référentiel** : Clonez le référentiel du projet dans votre répertoire local :
 ```
    git clone https://github.com/votre-utilisateur/ciprel-mouvement.git
 ```
