@@ -13,7 +13,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 1. **Clonage du Référentiel** : Clonez le référentiel du projet dans votre répertoire local :
 ```
-   git clone https://github.com/votre-utilisateur/ciprel-mouvement.git
+   git clone https://github.com/VIA2NEY/faire_un_projet_laravel_avec_filament.git
 ```
 
 2. **Configuration composer** :Mettre a jour les dependances du projet(Etre dans le repertoire du projet) :
